@@ -1,4 +1,5 @@
-* To run this project, please follow these steps:
+To run this project, please follow these steps:
+
 Download this repository.
 Run Talend on your system.
 On the right hand under repository section, right click on "Job Designs" and select "Import Items".
